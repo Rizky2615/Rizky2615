@@ -77,18 +77,6 @@
 | :--- | :--- | :--- |
 | **📱 TaskTribe** | `Kotlin` `Jetpack Compose` | Android task management application featuring automated workload distribution algorithms for team collaboration. |
 | **☁️ Aerionis Cloud Solutions** | `HTML/CSS` `Bootstrap` `JS` `Linux VPS` | Cloud service catalog and server infrastructure platform powered by Nginx and Pterodactyl Panel. |
-| **🖥️ Gapoktan Bodor App** | `Python` `PyQt6` `SQLite` | Desktop inventory and distribution management system designed for local agricultural groups. |
 | **⚙️ VPS Automation & API Tools** | `Python` `Flask` `Playwright` `Docker` | Self-hosted automation services, CLI tooling, and custom API gateway integrations deployed on Ubuntu servers. |
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rizky2615&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Rizky's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky2615&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizky2615&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
