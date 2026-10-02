@@ -25,9 +25,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Undergraduate Informatics Engineering Student at **Universitas Nusantara PGRI Kediri**.
-- 💻 **Focus Areas:** Web & Mobile Development, Desktop GUI Applications, and Linux VPS / Cloud Infrastructure.
-- 🖥️ **Server & DevOps:** Experienced in managing Ubuntu VPS environments, Docker containers, Nginx reverse proxies, and game server panels (Pterodactyl & Wings).
-- 🎨 **Creative Side:** Exploring UI/UX design in Figma and creating 2D pixel art assets using Pixelorama.
+- 💻 **Focus Areas:** Software development, Web programming, and Linux VPS / Cloud Infrastructure.
+- 🖥️ **Server & DevOps:** Experienced in managing Ubuntu VPS environments, Docker containers, Nginx reverse proxies, and server panels.
+- 🎨 **Creative Side:** Exploring UI/UX design in Figma.
 
 ---
 
@@ -66,7 +66,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/TablePlus-F5A623?style=for-the-badge&logo=databricks&logoColor=white" alt="TablePlus" />
 </p>
 
 ---
