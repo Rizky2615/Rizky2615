@@ -74,7 +74,7 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **✉️ [Aerionis TempMail](https://ezmail.aerionis.web.id)** | `Next.js` `TypeScript` `Supabase` `Cloudflare` `Vercel` | Real-time temporary email service with instant inbox, custom domains, bot API, and admin dashboard. |
+| **✉️ Aerionis TempMail** | `Next.js` `TypeScript` `Supabase` `Cloudflare` `Vercel` | Real-time temporary email service with instant inbox, custom domains, bot API, and admin dashboard. |
 | **📱 TaskTribe** | `Kotlin` `Jetpack Compose` | Android task management application featuring automated workload distribution algorithms for team collaboration. |
 | **☁️ Aerionis Cloud Solutions** | `HTML/CSS` `Bootstrap` `JS` `Linux VPS` | Cloud service catalog and server infrastructure platform powered by Nginx and Pterodactyl Panel. |
 | **⚙️ VPS Automation & API Tools** | `Python` `Flask` `Playwright` `Docker` | Self-hosted automation services, CLI tooling, and custom API gateway integrations deployed on Ubuntu servers. |
